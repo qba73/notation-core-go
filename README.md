@@ -15,11 +15,9 @@ Please visit [README](https://github.com/notaryproject/.github/blob/main/README.
 > The Notary Project documentation is available [here](https://notaryproject.dev/docs/).
 
 ## Table of Contents
-- [notation-core-go](#notation-core-go)
-  - [Table of Contents](#table-of-contents)
-  - [Documentation](#documentation)
-  - [Code of Conduct](#code-of-conduct)
-  - [License](#license)
+- [Documentation](#documentation)
+- [Code of Conduct](#code-of-conduct)
+- [License](#license)
  
 ## Documentation
 
