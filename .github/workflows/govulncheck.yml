@@ -20,6 +20,7 @@ on:
 
 jobs:
   govulncheck:
+    name: Run CVE scanner
     runs-on: ubuntu-latest
     steps:
         - uses: golang/govulncheck-action@v1
