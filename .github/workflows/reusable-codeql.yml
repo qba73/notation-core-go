@@ -42,3 +42,7 @@ jobs:
           languages: go
       - name: Perform CodeQL Analysis
         uses: github/codeql-action/analyze@v3
+      - name: Perform Staticcheck Analysis
+        uses: dominikh/staticcheck-action@v1
+        with:
+          version: "latest"
